@@ -1,0 +1,11 @@
+C:\MigrationsDemo\MigrationsDemo\bin\Debug\MigrationsDemo.exe.config
+C:\MigrationsDemo\MigrationsDemo\bin\Debug\MigrationsDemo.exe
+C:\MigrationsDemo\MigrationsDemo\bin\Debug\MigrationsDemo.pdb
+C:\MigrationsDemo\MigrationsDemo\bin\Debug\EntityFramework.dll
+C:\MigrationsDemo\MigrationsDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\MigrationsDemo\MigrationsDemo\bin\Debug\EntityFramework.xml
+C:\MigrationsDemo\MigrationsDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\MigrationsDemo\MigrationsDemo\obj\Debug\MigrationsDemo.exe
+C:\MigrationsDemo\MigrationsDemo\obj\Debug\MigrationsDemo.pdb
+C:\MigrationsDemo\MigrationsDemo\obj\Debug\MigrationsDemo.Migrations.InitialCreate.resources
+C:\MigrationsDemo\MigrationsDemo\obj\Debug\MigrationsDemo.csproj.GenerateResource.Cache

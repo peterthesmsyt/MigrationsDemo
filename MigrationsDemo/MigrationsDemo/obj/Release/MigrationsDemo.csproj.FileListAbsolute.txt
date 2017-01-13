@@ -1,0 +1,10 @@
+C:\MigrationsDemo\MigrationsDemo\bin\Release\MigrationsDemo.exe.config
+C:\MigrationsDemo\MigrationsDemo\bin\Release\MigrationsDemo.exe
+C:\MigrationsDemo\MigrationsDemo\bin\Release\MigrationsDemo.pdb
+C:\MigrationsDemo\MigrationsDemo\bin\Release\EntityFramework.dll
+C:\MigrationsDemo\MigrationsDemo\bin\Release\EntityFramework.SqlServer.dll
+C:\MigrationsDemo\MigrationsDemo\bin\Release\EntityFramework.xml
+C:\MigrationsDemo\MigrationsDemo\bin\Release\EntityFramework.SqlServer.xml
+C:\MigrationsDemo\MigrationsDemo\obj\Release\MigrationsDemo.csprojResolveAssemblyReference.cache
+C:\MigrationsDemo\MigrationsDemo\obj\Release\MigrationsDemo.exe
+C:\MigrationsDemo\MigrationsDemo\obj\Release\MigrationsDemo.pdb
